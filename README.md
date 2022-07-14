@@ -17,7 +17,7 @@ A key-value database that uses mongodb as the data-store.
 ---
 
 ### Dum
-A javascript engine that uses bun as its base then adds the npm packages on the go.
+A javascript packaging tool
 
 #### Features
 - Add support for typescript
