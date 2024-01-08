@@ -18,7 +18,7 @@ A key-value database that uses mongodb as the data-store.
 
 ---
 
-### ~~Dum~~
+### ~~Dum~~ [See Bun](https://bun.sh/)
 
 A javascript packaging tool
 
@@ -32,7 +32,6 @@ A javascript packaging tool
 - Cache most used libraries
 - Make optimasations before compiling
 - Support for compiling to native desktop apps
-
 ---
 
 <details> 
