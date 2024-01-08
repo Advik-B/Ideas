@@ -1,3 +1,4 @@
+> ⚠️This repo has been moved to my notion as its only a single file, this repo is archived for historical purposes
 # Notice
 
 You are free to use all my Ideas that come under the public catagory (with credit). NOT private
